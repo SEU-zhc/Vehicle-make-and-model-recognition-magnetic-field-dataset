@@ -23,3 +23,5 @@ The below figure demonstrates some magnetic data of vehicles.
 
 
 ![ https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png](https://github.com/SEU-zhc/Vehicle-make-and-model-recognition-magnetic-field-dataset/blob/main/Tesla%20Model%203.png)
+
+![https://github.com/SEU-zhc/Vehicle-make-and-model-recognition-magnetic-field-dataset/blob/main/Tesla%20Model%203.png](https://github.com/SEU-zhc/Vehicle-make-and-model-recognition-magnetic-field-dataset/blob/main/BMW%20320i.png)
