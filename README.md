@@ -20,4 +20,4 @@ To encourage related research, we will provide the dataset according to your req
 Our paper **《A fine-grained vehicle model identification framework based on magnetic fingerprint》** is submitted to Journal ***《IEEE Transactions on Intelligent Transportation Systems》***, When accepted, welcome to kindly cite it.
 
 The below figure demonstrates some magnetic data of vehicles.
-![tesla model 3.png](Tesla Model 3.png)
+[![tesla model 3.png](Tesla Model 3.png)](https://github.com/SEU-zhc/Vehicle-make-and-model-recognition-magnetic-field-dataset/blob/main/Tesla%20Model%203.png)
