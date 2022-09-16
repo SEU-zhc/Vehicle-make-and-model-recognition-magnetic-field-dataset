@@ -11,8 +11,7 @@ In order to promote the research of vehicle model identification based on magnet
 (5) Samples have been segmented and labeled using the finite state automata method</br>
 (6) The data format is as follows:</br>
 > Hardware address, time, linear acceleration, rotational angular velocity, spatial attitude, temperature, magnetic field strength</br>
-
-
+![https://github.com/SEU-zhc/Vehicle-make-and-model-recognition-magnetic-field-dataset/blob/main/dataSample.jpg](https://github.com/SEU-zhc/Vehicle-make-and-model-recognition-magnetic-field-dataset/blob/main/dataSample.jpg)
 ### 2.Download
 To encourage related research, we will provide the dataset according to your request.please email your full name and affiliation to the contact person(zhc_seu at seu dot edu dot cn).We ask for your information only to make sure the dataset is used for academic research purposes. We will not give it to any third party or publish it publicly anywhere.
 
