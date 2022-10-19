@@ -2,21 +2,21 @@
 
 ### 1.description
 
-In order to promote the research of vehicle model identification based on magnetic field data, we use the RM3100 magnetic field sensor to collect the data set of the vehicle when passing through the magnetic field sensor. Features of the dataset include:
+In order to promote the research of pavement crack detection based on arbitrary-oriented object detection, we public our dataset. Features of the dataset include:
 
-(1) Data collection in internal roads of Jiulong Lake Campus, Southeast University, Nanjing, China</br>
-(2) vehicle speed from 10-50 km / h</br>
-(3) Data includes the make and model of the vehicle</br>
-(4) The dataset includes 36 different vehicles with 100 samples per vehicle</br>
-(5) Samples have been segmented and labeled using the finite state automata method</br>
-(6) The data format is as follows:</br>
-> Hardware address, time, linear acceleration, rotational angular velocity, spatial attitude, temperature, magnetic field data</br>
+(1) Data collection Qingshuiting avenue and other roads in Nanjing, China</br>
+(2) Vehicle speed from 30-40 km / h</br>
+(3) The dataset contains a thousand images and corresponding annotation files</br>
+(4) The acquisition equipment is a Hikvision 240MV-CE060-10UM industrial camera with a WL1224-4MP 12mm lens and an image resolution of 2560 × 1440</br>
+(5) The data format is as follows:</br>
+> x1, y1, x2, y2, x3, y3, x4, y4, class, hardsample</br>
+
 ![https://github.com/SEU-zhc/Vehicle-make-and-model-recognition-magnetic-field-dataset/blob/main/dataSample.jpg](https://github.com/SEU-zhc/Vehicle-make-and-model-recognition-magnetic-field-dataset/blob/main/dataSample.jpg)
 ### 2.Download
-To encourage related research, we will provide the dataset according to your request.please email your full name and affiliation to the contact person(zhc_seu at seu dot edu dot cn).We ask for your information only to make sure the dataset is used for academic research purposes. We will not give it to any third party or publish it publicly anywhere.
+After the paper is accepted, we will public the full data set, you can now download the mini data set (20 pics) at xxxx
 
 ### 3.Citation
-Our paper **《Fine-grained vehicle make and model identification framework based on magnetic fingerprint》** is submitted to Journal ***《IEEE Transactions on Intelligent Transportation Systems》***, When accepted, welcome to kindly cite it.
+Our paper **《Pavement Crack Detection Method Based on Arbitrary-Oriented Object Detection》** is submitted to Journal ***《CONSTRUCTION AND BUILDING MATERIALS》***, When accepted, welcome to kindly cite it.
 
 The below figure demonstrates some magnetic data of vehicles.
 
